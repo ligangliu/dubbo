@@ -1,0 +1,4 @@
+red=com.chen.spi.RedCar
+benz=com.chen.spi.BenzCar
+com.chen.spi.CarWrapper2
+#com.chen.spi.CarWrapper
